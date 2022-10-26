@@ -1,0 +1,109 @@
+html,
+body {
+  height: 1%;
+  background: linear-gradient(90deg, rgb(58, 135, 194) 19%,rgb(180, 121, 248) 100%);
+  animation: gradient 1s infinite linear; 
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.a {
+  text-decoration: none;
+  text-align: center; /* Становить текст на середину */
+  color: #000;
+}
+
+.hh {
+  padding: 10px;
+  margin: 2.5%;
+  text-align:center;
+    color: rgb(251, 250, 250);
+}
+
+
+.h {
+  margin: 2.5%;
+  text-align:justify;
+    color: rgb(251, 250, 250);
+}
+
+
+
+
+  .textet {   
+    text-align: center;
+    font-size: 210%;
+  }
+  
+ 
+  .bg_black {
+    background: #000;
+    justify-content: center;
+    width: 0.1%;
+    height: 0.1;
+    padding: 15px 20px; 
+    margin-bottom: 20px;
+    border-radius: 20px;
+  }
+
+
+.pt {
+    text-align: center;
+    font-size:2ex;
+   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.h4cl {
+  color: #ffffff;
+  text-align: center;
+  font-size:35px;
+}
+.gr {
+ font-size: 55px;
+ padding: 10%;
+  text-align: center;
+  color:aliceblue;
+}
+
+.wrapper {
+ min-height: 100%;
+ display: flex;
+ flex-direction: column;
+}
+
+.text1foot{
+  color: #fff;
+  font-size: 25px;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.center {
+  text-align: center;
+
+}
+.AMore {
+  outline: none;
+  color: rgb(255, 255, 255);
+  text-decoration: none;
+  font-size: 20px;
+  border-radius: 12px;
+}
+.info1 {
+  padding: 10px;
+  text-justify: center;
+  color: #fff;
+  padding: 205px;
+}
+.ButtonMore {
+  background: linear-gradient(90deg, rgb(138, 187, 243) 19%,rgb(130, 72, 197) 100%);
+  height: 35px;
+  border-radius: 5px;
+  border: none;
+}
+
+.Indfo{
+  margin: 10px;
+  line-height: 1.2;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 20px;
+}
+
